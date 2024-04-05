@@ -11,3 +11,10 @@ This repository is an attempt to version the data going forward and record what 
 * This is the set of HMM's provided by ITSx 1.1.3 released February 8th, 2021  I do not know how much earlier it was used.
 * HMM version 1 was used by ITSxpress from its initial release until version 2.0.2
 * HMM N is empty
+
+# Version 2
+
+5 April 2024  
+
+* New Updates to models A, D, E, F, O, P, R
+* Addition of Y.hmm
