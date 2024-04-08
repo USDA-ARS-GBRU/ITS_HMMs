@@ -16,5 +16,6 @@ This repository is an attempt to version the data going forward and record what 
 
 5 April 2024  
 
-* New Updates to models A, D, E, F, O, P, R
-* Addition of Y.hmm
+* New Updates to models A, D, E, F, O, P, R  to impove support for oomycetes and fungal taxa with deviant ribosomal genes, notably Wickerhamiella, Calocera, and Mucoromycotina fine root endophytes
+
+* Addition of Y.hmm to support  Parabasalia
