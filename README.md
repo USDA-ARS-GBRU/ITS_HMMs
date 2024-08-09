@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13285214.svg)](https://doi.org/10.5281/zenodo.13285214)
+
+
 # ITS_HMMs
 
 This repository contains HMMER Hidden Markov Models that are used by the program ITSx and ITSXpress to identify the ends on Internal Transcribed Spacer (ITS) regions from eukaryotic genomes.
